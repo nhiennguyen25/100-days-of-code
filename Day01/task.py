@@ -1,38 +1,4 @@
-print("Welcome to the tip calculator!")
-bill = float(input("What was the total bill? $"))
-tip = int(input("What percentage tip would you like to give? 10 12 15 ")) / 100 + 1
-people = int(input("How many people to split the bill? "))
-
-price_per_person = round(bill * tip / people, 2)
-
-print(f"Each person should pay: ${price_per_person}")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# My version (a bit longer, but essentially shows what is happening)
-# print("Welcome to the tip calculator!")
-# bill = float(input("What was the total bill? $"))
-# tip = int(input("What percentage tip would you like to give? 10 12 15 "))
-# people = int(input("How many people to split the bill? "))
-
-# total_bill = bill * (tip / 100 + 1)
-# price_per_person = round(total_bill / people, 2)
-
-# print(f"Each person should pay: ${price_per_person}")
+print("welcome to the band name generator")
+hometown = input("what's the name of the city you grew up in?\n")
+pet_name = input("what's your pet's name?\n")
+print("your band name could be " + hometown + " " + pet_name)
