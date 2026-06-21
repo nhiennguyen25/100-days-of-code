@@ -12,5 +12,3 @@ A command-line game built as part of Angela Yu's 100 Days of Code course.
 ## Technologies
 
 - Python
-
-Built while learning Python fundamentals in Summer 2026.
