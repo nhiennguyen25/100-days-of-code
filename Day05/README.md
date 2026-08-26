@@ -1,4 +1,4 @@
-## Password generator
+## Python Password generator
 
 A command-line password generator built as part of Angela Yu's 100 Days of Code course.
 
