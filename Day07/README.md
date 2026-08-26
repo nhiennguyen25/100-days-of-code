@@ -1,4 +1,4 @@
-# Hangman
+# Python Hangman
 
 A command-line Hangman game built in Python as part of Angela Yu's 100 Days of Code course.
 
