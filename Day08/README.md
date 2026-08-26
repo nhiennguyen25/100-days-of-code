@@ -4,7 +4,7 @@ A command-line Caesar Cipher built in Python as part of Angela Yu's 100 Days of 
 
 ## Concepts Practiced
 
-- Functions
+- Functions with inputs
 - Lists
 - Loops
 - Conditional Logic
