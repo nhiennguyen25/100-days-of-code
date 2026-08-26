@@ -1,4 +1,4 @@
-## Rock, Paper, Scissors
+## Python Rock, Paper, Scissors
 A command-line game built as part of Angela Yu's 100 Days of Code course.
 
 ## Concepts Practiced
