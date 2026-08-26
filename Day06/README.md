@@ -1,4 +1,4 @@
-# Functions
+# Python Functions
 
 Command-line practice to create functions.
 
